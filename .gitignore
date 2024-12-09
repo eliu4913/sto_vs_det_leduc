@@ -1,0 +1,22 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node modules (if applicable)
+node_modules/
+
+# ignore logs, txt, model weights, 
+*.log
+*.txt
+*.keras
+*.h5
+
+# ignore macos files
+.DS_Store
+_MACOSX/
